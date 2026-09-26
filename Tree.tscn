@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dj7cg1x7p1y8a"]
+
+[ext_resource type="Texture2D" uid="uid://drl0q8omgtkqw" path="res://Tiles/tiny-swords-52.png" id="1_nbyt5"]
+
+[node name="Tree" type="Node2D" unique_id=934531464]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=191389060]
+position = Vector2(423, 315)
+scale = Vector2(3.9200003, 4.1199975)
+texture = ExtResource("1_nbyt5")
+offset = Vector2(0, -6.08)
