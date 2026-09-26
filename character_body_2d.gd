@@ -86,5 +86,4 @@ func plant_tree() -> void:
 				win_sound.play()
 
 			
-			await get_tree().create_timer(7.0).timeout
-			get_tree().quit()
+			
