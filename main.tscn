@@ -3140,29 +3140,7 @@ texture = ExtResource("2_0xm2m")
 physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_h2yge")
 
-[sub_resource type="FontFile" id="FontFile_mti6b"]
-cache/0/variation_coordinates = {}
-cache/0/face_index = 0
-cache/0/embolden = 0.0
-cache/0/transform = Transform2D(1, 0, 0, 1, 0, 0)
-cache/0/spacing_top = 0
-cache/0/spacing_bottom = 0
-cache/0/spacing_space = 0
-cache/0/spacing_glyph = 0
-cache/0/baseline_offset = 0.0
-cache/0/16/0/ascent = 0.0
-cache/0/16/0/descent = 0.0
-cache/0/16/0/underline_position = 0.0
-cache/0/16/0/underline_thickness = 0.0
-cache/0/16/0/scale = 1.0
-cache/0/128/0/ascent = 0.0
-cache/0/128/0/descent = 0.0
-cache/0/128/0/underline_position = 0.0
-cache/0/128/0/underline_thickness = 0.0
-cache/0/128/0/scale = 1.0
-
 [sub_resource type="LabelSettings" id="LabelSettings_4kxuq"]
-font = SubResource("FontFile_mti6b")
 font_size = 128
 font_color = Color(0, 0, 0, 1)
 
